@@ -1,0 +1,6 @@
+.DS_Store
+week7
+.venv
+venv
+__pycache__
+model.pth

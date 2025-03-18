@@ -1,0 +1,9 @@
+jtype: ObjectDetector
+with:
+  device: mps
+py_modules:
+  - executor.py
+metas:
+  name: ObjectDetector
+  description: 
+  url: 
